@@ -1,0 +1,13 @@
+C:\Users\SAM\source\repos\BaseLib\BaseLib\bin\Debug\Baseball.mdf
+C:\Users\SAM\source\repos\BaseLib\BaseLib\bin\Debug\Baseball_log.ldf
+C:\Users\SAM\source\repos\BaseLib\BaseLib\bin\Debug\BaseLib.dll.config
+C:\Users\SAM\source\repos\BaseLib\BaseLib\bin\Debug\BaseLib.dll
+C:\Users\SAM\source\repos\BaseLib\BaseLib\bin\Debug\BaseLib.pdb
+C:\Users\SAM\source\repos\BaseLib\BaseLib\bin\Debug\EntityFramework.dll
+C:\Users\SAM\source\repos\BaseLib\BaseLib\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SAM\source\repos\BaseLib\BaseLib\bin\Debug\EntityFramework.xml
+C:\Users\SAM\source\repos\BaseLib\BaseLib\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SAM\source\repos\BaseLib\BaseLib\obj\Debug\BaseLib.csprojResolveAssemblyReference.cache
+C:\Users\SAM\source\repos\BaseLib\BaseLib\obj\Debug\BaseLib.csproj.CoreCompileInputs.cache
+C:\Users\SAM\source\repos\BaseLib\BaseLib\obj\Debug\BaseLib.dll
+C:\Users\SAM\source\repos\BaseLib\BaseLib\obj\Debug\BaseLib.pdb
